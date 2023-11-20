@@ -1,1 +1,5 @@
-# One-member-in-the-group-creatcognitive_tests_group_07
+# Cognitive Test Code (Group 07)
+
+This repository contains code developed to run cognitive tests written as part of the BIOS0030 course.
+
+There are four tests to complete.
