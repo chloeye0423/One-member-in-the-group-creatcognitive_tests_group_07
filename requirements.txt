@@ -1,0 +1,15 @@
+numpy
+pandas
+matplotlib
+ipywidgets
+jupyter_ui_poll
+time
+random
+requests
+HTML
+display
+clear_output
+matplotlib.pyplot
+tkinter
+simpledialog, messagebox
+Image, ImageTk
