@@ -2,6 +2,7 @@ numpy
 pandas
 matplotlib
 ipywidgets
+json
 jupyter_ui_poll
 time
 random
