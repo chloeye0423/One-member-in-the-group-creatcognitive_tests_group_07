@@ -4,3 +4,5 @@ This repository contains code developed to run cognitive tests written as part o
 
 There are four tests to complete.
 These tests will test your number estimation, mathematical, memory and spatial reasoning skills.
+
+Enjoy!
