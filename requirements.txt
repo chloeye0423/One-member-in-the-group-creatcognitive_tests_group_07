@@ -11,5 +11,6 @@ display
 clear_output
 matplotlib.pyplot
 tkinter
-simpledialog, messagebox
+simpledialog
+messagebox
 Image, ImageTk
